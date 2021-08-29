@@ -6,8 +6,10 @@ In this assignment, you'll identify some of the major specs of your computer and
 
 ## Computer Specs 
 Describe each of the following aspects of your computer's hardware configuration. This should be (one of) the laptop or desktop computer(s) that you use the most.
-* Brand and model name/number *
-* Operating System
+* Brand and model name/number
+* * Apple Macbook Air 2020
+# * Operating System
+* *
 * CPU
 * RAM
 * Storage (HDD/SSD/Flash/etc.)
