@@ -1,26 +1,21 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5471128&assignment_repo_type=AssignmentRepo)
-# My Computer
-
-In this assignment, you'll identify some of the major specs of your computer and present them using [Github Flavored Markdown](https://github.github.com/gfm/), which is a plain text format that allows formatted documents stored in plain text (rather than a special format like a Google doc, Microsoft Word Document, or Pages document) similar to HTML (which we'll explore further in the next assignemnt) but using simpler and more human-readable syntax.
-
-
-## Computer Specs 
+# Computer Specs 
 Describe each of the following aspects of your computer's hardware configuration. This should be (one of) the laptop or desktop computer(s) that you use the most.
-* Brand and model name/number
+### Brand and model name/number
 * * Apple Macbook Air 2020
 ### Operating System
-* *
-* CPU
-* RAM
-* Storage (HDD/SSD/Flash/etc.)
-* Wireless (Wi-Fi/Bluetooth)
-* Ports
-
-### How to find this information
-- [MacOS](https://support.apple.com/en-jo/guide/system-information/syspr35536/mac)
-- [Windows](https://www.hellotech.com/guide/for/how-to-check-computer-specs-windows-10)
-- [ChromeOS](https://www.howtogeek.com/234454/how-to-view-your-chromebooks-hardware-specifications-and-system-information/)
-
+* * macOS Catalina Version 10.15.7
+### CPU
+* * 1.1GHz dual-core Intel Core i3
+### RAM
+* * 8GB of 3733MHz LPDDR4X onboard memory
+### Storage
+* * 256GB PCIe-based SSD
+### Wireless
+* * 802.11ac Wi-Fi wireless networking
+* * Bluetooth 5.0 wireless technology
+### Ports
+* * Two Thunderbolt 3 (USB-C)
+* * Headphone Jack
 
 ## Commentary
 * a brief description of your relationship to your computer. Do you like it, or not? What is your history with this computer and/or what is the computer's history? One or two sentences will do.
