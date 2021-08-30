@@ -1,6 +1,6 @@
 # Computer Specs 
 Describe each of the following aspects of your computer's hardware configuration. This should be (one of) the laptop or desktop computer(s) that you use the most.
-### Brand and model name/number
+### Brand and model
 * * Apple Macbook Air 2020
 ### Operating System
 * * macOS Catalina Version 10.15.7
@@ -18,10 +18,7 @@ Describe each of the following aspects of your computer's hardware configuration
 * * Headphone Jack
 
 ## Commentary
-* a brief description of your relationship to your computer. Do you like it, or not? What is your history with this computer and/or what is the computer's history? One or two sentences will do.
-* A brief description of how your computer's performance is affected by its hardware configuration (at least two of the aspects listed above) in a way that you can perceive as a user. For example, what kind of activities cause your computer to slow down and what do you think is the reason?
-* an image of your computer (taken by you of *your* computer, rather than one you find online of your *type* of computer)
-
+I have had this computer since the summer of 2020 and used it for one year of online school. It is very good for school work and watching movies and shows. It's also very portable and easy to bring on a plain or in the car. However, it isn't good for playing very complicated video games and has gotten very hot when I tried to before. 
 
 ## Markdown
 Use Markdown to format your response. You should include at least 4 different kinds of formatting. Make sure the formatting appears as you intend and that the file's [extension](https://www.howtogeek.com/356448/what-is-a-file-extension/) is .md. Use the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) as a reference when creating your file.
