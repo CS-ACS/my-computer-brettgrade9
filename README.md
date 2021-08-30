@@ -19,10 +19,3 @@ Describe each of the following aspects of your computer's hardware configuration
 
 ## Commentary
 I have had this computer since the summer of 2020 and used it for one year of online school. It is very good for school work and watching movies and shows. It's also very portable and easy to bring on a plain or in the car. However, it isn't good for playing very complicated video games and has gotten very hot when I tried to before. 
-
-## Markdown
-Use Markdown to format your response. You should include at least 4 different kinds of formatting. Make sure the formatting appears as you intend and that the file's [extension](https://www.howtogeek.com/356448/what-is-a-file-extension/) is .md. Use the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) as a reference when creating your file.
-
-
-## Submission
-Create (using the built-in editor on GitHub or your own editor) a new file in this repository named `mycomputer.md` with your responses.
